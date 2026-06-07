@@ -1,0 +1,20 @@
+```text
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# CLion / IntelliJ
+.idea/
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+build/
+```
