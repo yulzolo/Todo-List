@@ -17,11 +17,11 @@ status|task_title
 
 Пример:
 
-'''
+```
 0|Buy milk
 1|Learn C++
 0|Finish project
-'''
+```
 
 0 — задача не выполнена
 1 — задача выполнена
